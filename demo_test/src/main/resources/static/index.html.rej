@@ -1,0 +1,10 @@
+diff a/demo_test/src/main/resources/static/index.html b/demo_test/src/main/resources/static/index.html	(rejected hunks)
+@@ -5,7 +5,6 @@
+     <title>Title</title>
+ </head>
+ <body>
+-    aaaa
+-bbb
++   
+ </body>
+ </html>
